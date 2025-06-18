@@ -29,16 +29,7 @@ I'm a **Final Year Student** who loves turning coffee into code and bugs into fe
 - Git (when I remember to commit) | C | Python | Java | VS Code
 - Stack Overflow (my best friend) 📚
 
-## 📊 GitHub Stats That Make Me Look Productive
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak"/>
-</div>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200">
-</p>
 
 ## 🎯 What I'm Up To
 
