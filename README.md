@@ -1,4 +1,4 @@
-# Hey there! I'm [Your Name] 👋
+# Hey there! I'm Biswareet Panda 👋
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -7,19 +7,11 @@
 
 ## 🚀 About Me
 
-I'm a **[Your Role]** who loves turning coffee into code and bugs into features! ☕→💻
+I'm a Final Year Student who loves turning coffee into code and bugs into features! ☕→💻
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-```javascript
-const me = {
-    name: "Your Name",
-    role: "Developer | Problem Solver | Coffee Enthusiast",
-    location: "Somewhere in the Cloud ☁️",
-    currentlyLearning: ["New frameworks", "Life skills", "Guitar chords"],
-    funFact: "I debug with console.log and I'm not ashamed!"
-};
-```
+
 
 ## 🛠️ My Tech Arsenal
 
@@ -27,31 +19,23 @@ const me = {
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300">
 </p>
 
-**Languages & Frameworks:**
-- 🐍 Python | 🌐 JavaScript | ⚛️ React | 🎯 TypeScript
-- 🚀 Node.js | 🔥 Express | 📱 React Native
-- 💾 SQL | 🍃 MongoDB | ☁️ AWS
+**Things that have my Undivided Attention**
+- Computer Architectures
+- Apple Microarchitecture
+- System Designs
+- and much much more...just drop in a text and u will know 
+
 
 **Tools & Other Cool Stuff:**
 - Git (when I remember to commit) | Docker | VS Code
 - Figma for when I pretend to be a designer 🎨
 - Stack Overflow (my best friend) 📚
 
-## 📊 GitHub Stats That Make Me Look Productive
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak"/>
-</div>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200">
-</p>
 
 ## 🎯 What I'm Up To
 
-- 🔭 Currently working on **[Current Project]**
-- 🌱 Learning **[Technology/Skill]** because why not?
+- 🔭 Currently working on **Apple Microarchitectures and System Analytics**
+- 🌱 Learning **Every damn thing** because why not?
 - 👯 Looking to collaborate on **open source projects** or **world domination** (whichever comes first)
 - 💬 Ask me about **anything tech-related** or **random shower thoughts**
 - ⚡ Fun fact: **I once spent 3 hours debugging only to find I had a typo in variable name** 🤦‍♂️
@@ -63,10 +47,9 @@ const me = {
 </div>
 
 - 🎵 Listening to lo-fi beats while coding
-- 🎮 Gaming (currently obsessed with **[Current Game]**)
 - 📚 Reading tech blogs and pretending to understand everything
 - 🌱 Trying to keep my plants alive (success rate: 50%)
-- 🍕 Perfecting my pizza ordering skills
+
 
 ## 🤝 Let's Connect!
 
@@ -110,19 +93,3 @@ const me = {
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100">
   <br/>
   <b>Thanks for stopping by! Have a great day! 🌟</b>
-</div>## Hi there 👋
-
-<!--
-**Intruder2614/Intruder2614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
