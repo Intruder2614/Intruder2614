@@ -9,7 +9,7 @@
 
 I'm a **Final Year Student** who loves turning coffee into code and bugs into features! ☕→💻
 
-<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
+
 
 
 
