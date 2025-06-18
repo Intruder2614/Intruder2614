@@ -9,7 +9,7 @@
 
 I'm a Final Year Student who loves turning coffee into code and bugs into features! ☕→💻
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 
 
@@ -26,9 +26,8 @@ I'm a Final Year Student who loves turning coffee into code and bugs into featur
 - and much much more...just drop in a text and u will know 
 
 
-**Tools & Other Cool Stuff:**
-- Git (when I remember to commit) | Docker | VS Code
-- Figma for when I pretend to be a designer 🎨
+**Tools Languages & Other Cool Stuff:**
+- Git (when I remember to commit) | C | Python | Java | VS Code
 - Stack Overflow (my best friend) 📚
 
 
