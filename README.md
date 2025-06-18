@@ -2,24 +2,16 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="250px"/>
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120"/>
+
 </div>
 
 ## 🚀 About Me
 
 I'm a **Final Year Student** who loves turning coffee into code and bugs into features! ☕→💻
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
-```javascript
-const me = {
-    name: "Your Name",
-    role: "Developer | Problem Solver | Coffee Enthusiast",
-    location: "Somewhere in the Cloud ☁️",
-    currentlyLearning: ["New frameworks", "Life skills", "Guitar chords"],
-    funFact: "I debug with console.log and I'm not ashamed!"
-};
-```
+
 
 ## 🛠️ My Tech Arsenal
 
@@ -54,7 +46,7 @@ const me = {
 - 🌱 Learning **Every damn thing** because why not?
 - 👯 Looking to collaborate on **open source projects** or **world domination** (whichever comes first)
 - 💬 Ask me about **anything tech-related** or **random shower thoughts**
-- ⚡ Fun fact: **I once spent 3 hours debugging only to find I had a typo in variable name** 🤦‍♂️
+
 
 ## 🎮 When I'm Not Coding
 
